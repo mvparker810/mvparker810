@@ -23,24 +23,27 @@ Contact me at: mvparker@udel.edu
   <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png"                                                                       alt="CSS"            height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png"                                                     alt="Lua"            height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"                                 alt="Python"         height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"                                 alt="Python"         height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"                                 alt="Python"         height="40" style="vertical-align:top; margin:4px">
 </p>
 🧰 Tools:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"         alt="VS Code"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CMake_logo.svg/2048px-CMake_logo.svg.png"                                                 alt="CMake"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png"                       alt="MSVC"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"              alt="VS Code"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"                                                     alt="Git"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg"                                                                                                 alt="GitBash"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"                                                                       alt="GitHub"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://flecs-hub.gallerycdn.vsassets.io/extensions/flecs-hub/flecs-lang/1.0.3/1663375405699/Microsoft.VisualStudio.Services.Icons.Default"         alt="FLECS"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Box2D_logo.svg/1200px-Box2D_logo.svg.png"                                                 alt="Box2D"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"                                 alt="IntelliJ"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/raspberry-pi-logo_resized_256.png"                                                        alt="RaspberryPI"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"         alt="Arduino"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"         alt="template"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"         alt="template"       height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"         alt="template"       height="40" style="vertical-align:top; margin:4px">
 </p>
-<!--
-**mvparker810/mvparker810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏗️ Frameworks:
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CMake_logo.svg/2048px-CMake_logo.svg.png"                                                 alt="CMake"       height="40" style="vertical-align:top; margin:4px">
+  OpenGL, Vulkan, Nuklear, GLFW, PROS, Unity, Godot 4
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
