@@ -1,11 +1,11 @@
-👋 Hey, I'm Marshall.
+Hey, I'm Marshall.
 
-I'm a Sophomore Computer Science B.S Major at the University Of Delaware. I'm a passionate software developer with experience in low-level systems programming, and recently, I've been diving into fullstack web development. Outside of programming, I enjoy making art, gaming, and writing narratives.
+I'm a Sophomore Computer Science B.S Major at the University Of Delaware. I'm a software developer with experience in low-level systems programming, and recently, I've been diving into fullstack web development. Outside of programming, I enjoy making art, gaming, and writing narratives.
 
-[Check out my digital portfolio to see what I'm working on.](https://mvparker810.github.io)
 
 Contact me at: mvparker@udel.edu
-
+[Check out my digital portfolio to see what I'm working on.](https://mvparker810.github.io)
+ <!--
 🗣️ Languages:
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"                                                            alt="C"              height="40" style="vertical-align:top; margin:4px">
@@ -50,4 +50,5 @@ Contact me at: mvparker@udel.edu
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png"                                                                                            alt="Unity"       height="40" style="vertical-align:top; margin:4px">
   <img src="https://godotengine.org/assets/press/icon_color.png"                                                                                                alt="Godot"       height="40" style="vertical-align:top; margin:4px">
 </p>
+-->
 
