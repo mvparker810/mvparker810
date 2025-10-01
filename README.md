@@ -4,8 +4,9 @@ I'm a Sophomore Computer Science B.S Major at the University Of Delaware. I'm a 
 
 
 Contact me at: mvparker@udel.edu
-[Check out my digital portfolio to see what I'm working on.](https://mvparker810.github.io)
+
  <!--
+ [Check out my digital portfolio to see what I'm working on.](https://mvparker810.github.io)
 🗣️ Languages:
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"                                                            alt="C"              height="40" style="vertical-align:top; margin:4px">
