@@ -23,10 +23,10 @@ Contact me at: mvparker@udel.edu
   <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png"                                                                       alt="CSS"            height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png"                                                     alt="Lua"            height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"                                 alt="Python"         height="40" style="vertical-align:top; margin:4px">
+  <img src="https://i.pcmag.com/imagery/articles/076EJD6ldKinKtfhXbP4ApO-1..v1569485158.gif"                                                                    alt="ARMv8"          height="40" style="vertical-align:top; margin:4px">
 </p>
 🧰 Tools:
 <p align="left">
-  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png"                       alt="MSVC"       height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"              alt="VS Code"       height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"                                 alt="IntelliJ"       height="40" style="vertical-align:top; margin:4px">
@@ -35,9 +35,6 @@ Contact me at: mvparker@udel.edu
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"                                                     alt="Git"       height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg"                                                                                                 alt="GitBash"       height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"                                                                       alt="GitHub"       height="40" style="vertical-align:top; margin:4px">
- 
-  
-  
 </p>
 🏗️ Frameworks:
 <p align="left">
