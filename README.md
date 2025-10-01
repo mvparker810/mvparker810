@@ -1,5 +1,10 @@
-## Hi there 👋
+👋 Hey, I'm Marshall.
 
+I'm a Sophomore Computer Science B.S Major at the University Of Delaware. I'm a passionate software developer with experience in low-level systems programming, and recently, I've been diving into fullstack web development. I feel most fulfilled when I'm turning complex problems into simple, elegant solutions. Outside of programming, I enjoy making art, gaming, and writing narratives.
+
+[Check out my digital portfolio to see what I'm working on!](https://mvparker810.github.io)
+
+Contact me at: mvparker@udel.edu
 <!--
 **mvparker810/mvparker810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
