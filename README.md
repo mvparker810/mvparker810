@@ -4,7 +4,7 @@ I'm a Sophomore Computer Science B.S Major at the University Of Delaware. I'm an
 
 
 Contact me at: mvparker@udel.edu
-
+[mvparker.dev](https://mvparker.dev)
  <!--
  [Check out my digital portfolio to see what I'm working on.](https://mvparker810.github.io)
 🗣️ Languages:
