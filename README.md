@@ -2,11 +2,9 @@ Hey, I'm Marshall.
 
 I'm a Sophomore Computer Science B.S Major at the University Of Delaware. I'm an aspiring software developer with experience in low-level systems programming and graphics programming, and recently, I've been diving into fullstack web development. Outside of programming, I enjoy making art, gaming, and writing narratives.
 
-
+Check out my digital portfolio: [mvparker.dev](https://mvparker.dev/)
 Contact me at: mvparker@udel.edu
 
-
-[mvparker.dev](https://mvparker.dev/)
  <!--
  [Check out my digital portfolio to see what I'm working on.](https://mvparker810.github.io)
 🗣️ Languages:
