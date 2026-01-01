@@ -1,14 +1,13 @@
 Hey, I'm Marshall.
 
-I'm an aspiring software developer with experience in low-level systems, embedded programming, and interactive graphics. I enjoy working close to the metal: building engines, tools, and frameworks. However, I've also been exploring full-stack web development to give my low-level projects more expressive, high-level interfaces. Outside of programming, I enjoy making art, gaming, and writing narratives.
+I'm a software developer with experience in low-level systems, embedded programming, and interactive graphics. I enjoy working close to the metal: building engines, tools, and frameworks. However, I've also been exploring full-stack web development to give my low-level projects more expressive, high-level interfaces. Outside of programming, I enjoy making art, gaming, and writing narratives.
 
 Check out my digital portfolio: [mvparker.dev](https://mvparker.dev/)
 
 Contact me at: mvparker810@gmail.com
 
  <!--
-Outside of programming, I enjoy making art, gaming, and writing narratives.
-🗣️ Languages:
+* Languages:
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"                                                            alt="C"              height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1067px-ISO_C%2B%2B_Logo.svg.png"                                     alt="Cpp"            height="40" style="vertical-align:top; margin:4px">
@@ -27,7 +26,7 @@ Outside of programming, I enjoy making art, gaming, and writing narratives.
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"                                 alt="Python"         height="40" style="vertical-align:top; margin:4px">
   <img src="https://i.pcmag.com/imagery/articles/076EJD6ldKinKtfhXbP4ApO-1..v1569485158.gif"                                                                    alt="ARMv8"          height="40" style="vertical-align:top; margin:4px">
 </p>
-🧰 Tools:
+* Tools:
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png"                       alt="MSVC"       height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"              alt="VS Code"       height="40" style="vertical-align:top; margin:4px">
@@ -38,7 +37,7 @@ Outside of programming, I enjoy making art, gaming, and writing narratives.
   <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg"                                                                                                 alt="GitBash"       height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"                                                                       alt="GitHub"       height="40" style="vertical-align:top; margin:4px">
 </p>
-🏗️ Frameworks:
+* Frameworks:
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CMake_logo.svg/2048px-CMake_logo.svg.png"                                                 alt="CMake"       height="40" style="vertical-align:top; margin:4px">
   <img src="https://flecs-hub.gallerycdn.vsassets.io/extensions/flecs-hub/flecs-lang/1.0.3/1663375405699/Microsoft.VisualStudio.Services.Icons.Default"         alt="FLECS"       height="40" style="vertical-align:top; margin:4px">
